@@ -1,4 +1,4 @@
-# Python rapid quiz using command line
+# Python rapid quiz using command line interface
 
 A super fancy CLI QUIZ. 
 
