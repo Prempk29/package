@@ -4,7 +4,7 @@ A super fancy CLI QUIZ.
 
 
 
-## Take the Quiz => IF YOUR READY
+## TAKE THE QUIZ IF YOUR READY
 
 IN COMMAND LINE TYPE
 ```
