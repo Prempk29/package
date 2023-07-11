@@ -6,7 +6,7 @@ A super fancy CLI QUIZ.
 
 ## TAKE THE QUIZ IF YOUR READY
 
-IN COMMAND LINE TYPE
+Go to terminal in your pc and type the below command...
 ```
 npx chahae
 ```
